@@ -1,0 +1,14 @@
+﻿.venv/
+env/
+ENV/
+data/
+*.csv
+*.json
+*.xlsx
+*.parquet
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.env
+*.secret
